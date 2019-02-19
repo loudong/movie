@@ -1,0 +1,23 @@
+{
+  "name": "movie",
+  "version": "1.0.0",
+  "description": "预告片",
+  "main": "sever/index,js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "dev": "node sever/index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loudong/movie.git"
+  },
+  "author": "loud",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/loudong/movie/issues"
+  },
+  "homepage": "https://github.com/loudong/movie#readme",
+  "dependencies": {
+    "koa": "^2.7.0"
+  }
+}
